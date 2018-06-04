@@ -1,0 +1,390 @@
+header{
+    height: 250px;
+    background-color: rgba(2, 10, 17, 0.931);
+    width:45%;
+    margin-left:530px;
+    color: aliceblue;
+   text-align: center;
+}
+img{
+    width : 170px;
+    height: 170px;
+    margin-top: 16px;
+    margin-left: 30px;
+    border-radius: 100%;
+
+}
+
+.column1 {
+    position: relative;
+    top: -20px;
+    float: left;
+    width: 14.7%;
+    height: 950px; 
+    margin-left: 530px;
+    border-left: 4px solid rgb(14, 223, 238);
+    border-bottom:4px solid rgb(14, 223, 238); 
+
+}
+
+.column2{
+    position: relative;
+    top: -20px;
+    float: left;
+    width: 30.3%;
+    height: 950px;
+    border-right: 4px solid rgb(14, 223, 238);
+    border-bottom:4px solid rgb(14, 223, 238); 
+
+
+   
+}
+head2{
+    position: relative;
+    bottom: 300px;
+}
+hr{
+    position: relative;
+    top: -28px;
+    margin-right: -125px;
+    width: 53%;
+}
+#myheader{
+    height: 20px;
+    background-color: rgb(216, 207, 207);
+    width:45%;
+    margin-left:530px;
+    position: relative;
+    top: -20px;
+    text-align: center;
+    color: black;
+
+}
+.dot {
+    position: relative;
+    top: 50px;
+    margin-left: 25px;
+    height: 20px;
+    width: 20px;
+    background-color: rgb(14, 223, 238);
+    border-radius: 50%;
+    display: inline-block;
+}
+h3{
+    margin-left: 55px;
+    position: relative;
+  
+}
+
+p{
+    margin-left: 55px;
+    margin-bottom:5px;
+
+}
+
+#text{
+    margin-left: 220px;
+    margin-bottom:5px;
+    text-align: left;
+}
+
+
+* {box-sizing: border-box}
+
+.container {
+  margin-bottom: 4px;
+  width: 65%;
+  background-color: #ddd;
+  margin-left: 55px;
+}
+
+.skills {
+  text-align: right;
+  padding-right: 20px;
+  line-height: 40px;
+  color: white;
+}
+
+.html1 {
+    position: relative;
+    height: 12px;
+    width: 50%;
+     background-color: rgb(14, 223, 238);
+    
+    }
+    .html2 {
+        position: relative;
+        height: 12px;
+        width: 50%;
+         background-color: rgb(14, 223, 238);
+        
+        }
+        .html3 {
+            position: relative;
+            height: 12px;
+            width: 50%;
+             background-color: rgb(14, 223, 238);
+            
+            }
+            .html4 {
+                position: relative;
+                height: 12px;
+                width: 65%;
+                 background-color: rgb(14, 223, 238);
+                
+                }
+                .html5 {
+                    position: relative;
+                    height: 12px;
+                    width: 90%;
+                     background-color: rgb(14, 223, 238);
+                    
+                    }
+
+    i{
+        position: relative;
+        margin-bottom:5px;
+        color: rgb(14, 223, 238);
+    }
+    #para3{
+        position: relative;
+        margin-left: 55px;
+        margin-bottom:-11px;
+
+    }
+    .vl {
+        border-left: 1px solid rgb(175, 171, 171);
+        height: 126px;
+        margin-left: 79px;
+        position: relative;
+        top: -224px;
+
+    }
+   #h3column1{
+    margin-left: 75px;
+
+   }
+   .dot2{
+    position: relative;
+    top: 50px;
+    margin-left: 50px;
+    height: 20px;
+    width: 20px;
+    background-color:  rgb(14, 223, 238);
+    border-radius: 50%;
+    display: inline-block;
+
+   }
+
+#hr1{
+    position: relative;
+    top: -28px;
+    width: 65%;
+   margin-right:-160px;
+   
+
+}
+#para1{
+    margin-left: 75px;
+   color: rgb(99, 246, 234);
+
+}
+h2{
+    position: relative;
+    top: -45px;
+    margin-left: 200px;
+    color: rgb(14, 223, 238);
+}
+#h2column2{
+    color: #ddd;
+    position: relative;
+    top: -97px;
+    margin-left: 300px;
+}
+#h4column2{
+    color: grey;
+    position: relative;
+    top: -110px;
+    margin-left: 200px;
+
+}
+#para2{
+    position: relative;
+    top: -125px;
+    margin-left: 200px;
+
+}
+#para5{
+    position: relative;
+    top: -250px;
+    margin-left: 76px;
+
+}
+#h3column2{
+    position: relative;
+    top: -341px;
+    margin-left: 302px;
+    color:rgb(211, 209, 209);
+
+}
+
+#h5column2{
+    color: grey;
+    position: relative;
+    top: -362px;
+    margin-left: 200px;
+
+}
+#para4{
+    position: relative;
+    top: -375px;
+    margin-left: 200px;
+
+}
+#v2{        border-left: 1px solid rgb(175, 171, 171);
+    height: 100px;
+    margin-left: 79px;
+    position: relative;
+    top: -400px;
+
+}
+#h2column1{
+    position: relative;
+    top: -290px;
+    margin-left: 200px;
+    color: rgb(14, 223, 238);
+
+
+}
+
+
+.dot3{
+    position: relative;
+    bottom: 355px;
+    margin-left: 50px;
+    height: 20px;
+    width: 20px;
+    background-color:  rgb(14, 223, 238);
+    border-radius: 50%;
+    display: inline-block;
+
+   }
+   #h6column1{
+       position: relative;
+       bottom: 400px;
+    margin-left: 75px;
+
+   }
+#hr2{
+    position: relative;
+    top: -425px;
+    width: 65%;
+   margin-right:-150px;
+}
+
+
+
+
+
+
+
+
+#para10{
+   
+position: relative;
+    bottom: 400px;
+    margin-left: 75px;
+   color: rgb(99, 246, 234);
+}
+
+#matric{
+    position: relative;
+    top: -445px;
+    margin-left: 190px;
+   color: rgb(14, 223, 238);
+
+
+}
+
+#h2column3{
+    color: #ddd;
+    position: relative;
+    top: -495px;
+    margin-left: 280px;
+}
+
+#para9{
+    position: relative;
+    top: -125px;
+    margin-left: 200px;
+
+}
+
+.v3 {
+    border-left: 1px solid rgb(175, 171, 171);
+    height: 70px;
+    margin-left: 79px;
+    position: relative;
+    bottom: 550PX;
+
+}
+
+#para8{
+    position: relative;
+    bottom: 575PX;
+    margin-left: 76px;
+
+}
+
+#h2column4{
+    position: relative;
+    TOP: -620PX;
+    margin-left: 190px;
+    color: rgb(14, 223, 238);
+
+
+}
+
+#h3column5{
+    position: relative;
+    top: -670px;
+    margin-left: 302px;
+    color:rgb(211, 209, 209);
+
+}
+
+
+#para7{
+    position: relative;
+    top: -375px;
+    margin-left: 200px;
+
+}
+#v4{        border-left: 1px solid rgb(175, 171, 171);
+    height: 100px;
+    margin-left: 79px;
+    position: relative;
+    top: -400px;
+
+}
+#h5column2{
+    color: grey;
+    position: relative;
+    top: -362px;
+    margin-left: 200px;
+
+}
+
+#h4column7{
+    color: grey;
+    position: relative;
+    top: -110px;
+    margin-left: 200px;
+
+}
+
+
+
+
+
+
